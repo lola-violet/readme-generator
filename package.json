@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "UWBC HW#9: NodeJS Professional ReadMe Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lola-violet/readme-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lola-violet/readme-generator/issues"
+  },
+  "homepage": "https://github.com/lola-violet/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
