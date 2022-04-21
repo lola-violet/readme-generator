@@ -10,15 +10,15 @@ inquirer.prompt([
         name: 'title',
     },{
         type: 'input',
-        message: 'Enter a description of your project',
+        message: 'Describe your project',
         name: 'description',
     },{
         type: 'input',
-        message: 'Enter installation instructions for your project',
+        message: 'Enter installation instructions',
         name: 'installation',
     },{
         type: 'input',
-        message: 'Enter usage instructions for your project',
+        message: 'Enter usage instructions',
         name: 'usage',
     },{
         type: 'list',
@@ -28,7 +28,7 @@ inquirer.prompt([
         name: 'license',
     },{
         type: 'input',
-        message: 'Enter installation instructions for your project',
+        message: 'Enter credits for collaborators or assets used in your project',
         name: 'credits',
     },{
         type: 'input',
@@ -80,7 +80,7 @@ ${description}
 * [Credits](#credits)
 * [Contributing](#contributing)
 * [Testing](#testing)
-* [Contact](#contact-me)
+* [Questions](#questions)
 
 ---
 
@@ -114,7 +114,7 @@ ${tests}
 
 ---
 
-## Contact Me
+## Questions
 View all of my projects on [GitHub](https://github.com/${github}).
 
 If you have any questions or want to contribute, please contact me via email at [${email}](mailto:${email}).`
