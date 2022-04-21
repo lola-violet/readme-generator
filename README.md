@@ -24,6 +24,8 @@ Before installing, please make sure you have node.js installed locally. If you d
 ## Usage
 Once you've completed the necessary installations, you can create your README. To run the application, open the integrated terminal & enter "node index.js". You'll be prompted with a series of questions about your project. Answer each question, and the README file will appear in your directory when all are complete. If there's a section you don't have information for, press enter to move on to the next question. When the README file appears in your directory, you can open the file & make any edits necessary for your particular project (add pictures, take out unnecessary sections, etc.). Enjoy!
 
+![Usage_gif](/assets/ReadMe_Generator_Edit.gif)
+
 ---
 
 ## License
