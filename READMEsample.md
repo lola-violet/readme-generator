@@ -1,11 +1,9 @@
 # ${title}
-{license}
-
+{licenseBadge}
 
 
 ## Description
 {description}
-
 ---
 
 
@@ -32,9 +30,8 @@
 ---
 
 
-<!-- --- figure out features --- -->
 ## License
-{license}
+{licenseInfo}
 
 ---
 
