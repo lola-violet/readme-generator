@@ -10,15 +10,16 @@ A command-line application that automatically generates a quality, professional 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Images](#images)
 * [License](#license)
+* [Credits](#credits)
 * [Contributing](#contributing)
+* [Testing](#testing)
 * [Questions](#questions)
 
 ---
 
 ## Installation 
-Before installing, please make sure you have node.js installed locally. If you don't already have node.js, you can download it via their [website](https://nodejs.dev/). After cloning this repo, open the integrated terminal in VS Code & install the npm inquirer package. A package.json file already exists with listed dependencies, so you can simply enter "npm install" to acquire the package.
+Before installing, please make sure you have node.js installed locally. If you don't already have node.js, you can download it via their website. After cloning this repo, open the integrated terminal in VS Code & install the npm inquirer package. A package.json file already exists with listed dependencies, so you can simply enter "npm install" to acquire the package.
 
 ---
 
@@ -27,23 +28,23 @@ Once you've completed the necessary installations, you can create your README. T
 
 ---
 
-## Images
-
-![Usage_gif](/assets/ReadMe_Generator_Edit.gif)
-![Screenshot1](/assets/rmgen1.png)
-![Screenshot2](/assets/rmgen2.png)
-![Screenshot3](/assets/rmgen3.png)
-![Screenshot4](/assets/rmgen4.png)
-
----
-
 ## License
 This project is licenced by [MIT](https://choosealicense.com/licenses/mit/).
 
 ---
 
+## Credits
+
+
+---
+
 ## Contributing
 If you'd like to contribute, you can contact me via the email listed below.
+
+---
+
+## Testing
+
 
 ---
 
